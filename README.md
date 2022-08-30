@@ -1,2 +1,2 @@
 # Training
-It  contain my learning procces
+It  contains my learning procces
